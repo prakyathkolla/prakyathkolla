@@ -1,3 +1,5 @@
+![logo](https://github.com/prakyathkolla/prakyath/blob/main/Heading.png)
+
 # Kolla Prakyath - Full Stack Developer
 
 Welcome to my GitHub! I'm Kolla Prakyath, a passionate Full Stack Developer with expertise in frontend and backend technologies. I specialize in creating efficient and scalable web applications, leveraging modern frameworks and tools. This repository serves as a showcase of my projects, skills, and contributions.
