@@ -1,4 +1,4 @@
-![logo](https://github.com/prakyathkolla/prakyath/blob/main/heading.png)
+![logo](https://github.com/prakyathkolla/prakyathkolla/blob/main/heading.png)
 
 # Kolla Prakyath - Full Stack Developer
 
