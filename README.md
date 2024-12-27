@@ -1,10 +1,10 @@
-# Prakyath Kolla - Full Stack Developer
+# Kolla Prakyath - Full Stack Developer
 
-Welcome to my GitHub! I'm Prakyath Kolla, a passionate Full Stack Developer with expertise in frontend and backend technologies. I specialize in creating efficient and scalable web applications, leveraging modern frameworks and tools. This repository serves as a showcase of my projects, skills, and contributions.
+Welcome to my GitHub! I'm Kolla Prakyath, a passionate Full Stack Developer with expertise in frontend and backend technologies. I specialize in creating efficient and scalable web applications, leveraging modern frameworks and tools. This repository serves as a showcase of my projects, skills, and contributions.
 
 ## 🚀 About Me
 
-I'm a full-stack developer with over 8 years of experience in web development. My primary expertise lies in building dynamic web applications using a variety of programming languages and frameworks such as Java, JavaScript, TypeScript, React, Angular, Spring Boot, Node.js, and many others.
+I'm a full-stack developer with over 5 years of experience in web development. My primary expertise lies in building dynamic web applications using a variety of programming languages and frameworks such as Java, JavaScript, TypeScript, React, Angular, Spring Boot, Node.js, and many others.
 
 - 🔭 I’m currently working on enhancing my skills with cloud technologies like AWS and Azure.
 - 🌱 I’m constantly learning and improving my knowledge of full-stack development, microservices architecture, and cloud-native applications.
