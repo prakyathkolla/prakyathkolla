@@ -10,7 +10,7 @@ I'm a full-stack developer with over 5 years of experience in web development. M
 
 - 🔭 I’m currently working on enhancing my skills with cloud technologies like AWS and Azure.
 - 🌱 I’m constantly learning and improving my knowledge of full-stack development, microservices architecture, and cloud-native applications.
-- 📫 How to reach me: [prakyathkolla04@outlook.com](mailto:prakyathkolla04@outlook.com)
+- 📫 How to reach me: [prakyathkolla04@gmail.com](mailto:prakyathkolla04@gmail.com)
 - 📄 My resume: [Download PDF](./assets/icons/Kolla_Prakyath_FullStack_Resume.pdf)
 
 ## 🔧 Technologies & Tools
@@ -63,21 +63,13 @@ A real-time cryptocurrency tracking app displaying up-to-date coin prices and tr
 - Demo: [Live Demo](https://crypto-asset-tracker-two.vercel.app/)
 - GitHub: [Crypto Asset Tracker GitHub](https://github.com/prakyathkolla/crypto-asset-tracker)
 
-## 📝 Blog
-
-Check out my blog posts about development, cloud technologies, and best practices:
-
-- [Understanding Microservices Architecture](#)
-- [Deploying Java Applications on AWS](#)
-- [The Power of TypeScript in Full Stack Development](#)
-
 ## 💬 Connect With Me
 
 Feel free to connect with me on social media or contact me via email:
 
-- LinkedIn: [Prakyath Kolla](https://www.linkedin.com/in/kolla-prakyath)
-- GitHub: [prakyathkolla](https://github.com/prakyathkolla)
-- Email: [prakyathkolla04@outlook.com](mailto:prakyathkolla04@outlook.com)
+- LinkedIn: [LINKEDIN](https://www.linkedin.com/in/kolla-prakyath)
+- GitHub: [GITHUB](https://github.com/prakyathkolla)
+- Email: [EMAIL](mailto:prakyathkolla04@gmail.com)
 
 ## 📈 GitHub Stats
 
