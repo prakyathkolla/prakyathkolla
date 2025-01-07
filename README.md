@@ -11,7 +11,7 @@ I'm a full-stack developer with over 5 years of experience in web development. M
 - 🔭 I’m currently working on enhancing my skills with cloud technologies like AWS and Azure.
 - 🌱 I’m constantly learning and improving my knowledge of full-stack development, microservices architecture, and cloud-native applications.
 - 📫 How to reach me: [prakyathkolla04@gmail.com](mailto:prakyathkolla04@gmail.com)
-- 📄 My resume: [Download PDF](./assets/icons/Kolla_Prakyath_FullStack_Resume.pdf)
+- 📄 My resume: [Download PDF](https://github.com/prakyathkolla/prakyathkolla/blob/main/Kolla_Prakyath_FullStack_Resume.pdf)
 
 ## 🔧 Technologies & Tools
 
@@ -67,9 +67,9 @@ A real-time cryptocurrency tracking app displaying up-to-date coin prices and tr
 
 Feel free to connect with me on social media or contact me via email:
 
-- LinkedIn: [LINKEDIN](https://www.linkedin.com/in/kolla-prakyath)
-- GitHub: [GITHUB](https://github.com/prakyathkolla)
-- Email: [EMAIL](mailto:prakyathkolla04@gmail.com)
+- [LINKEDIN](https://www.linkedin.com/in/kolla-prakyath)
+- [GITHUB](https://github.com/prakyathkolla)
+- [EMAIL](mailto:prakyathkolla04@gmail.com)
 
 ## 📈 GitHub Stats
 
