@@ -62,6 +62,11 @@ A fun app that sends birthday wishes to your friends automatically.
 A real-time cryptocurrency tracking app displaying up-to-date coin prices and trends.
 - Demo: [Live Demo](https://crypto-asset-tracker-two.vercel.app/)
 - GitHub: [Crypto Asset Tracker GitHub](https://github.com/prakyathkolla/crypto-asset-tracker)
+  
+### 5. [Portfolio](https://kollaprakyath.dev/)
+Showcasing my journey as a developer – Code, Creativity, and Projects that Inspire.
+- Demo: [Live Demo](https://kollaprakyath.dev/)
+- GitHub: [Portfolio GitHub](https://github.com/prakyathkolla/Portfolio)
 
 ## 💬 Connect With Me
 
@@ -70,7 +75,6 @@ Feel free to connect with me on social media or contact me via email:
 - [LINKEDIN](https://www.linkedin.com/in/kolla-prakyath)
 - [GITHUB](https://github.com/prakyathkolla)
 - [EMAIL](mailto:prakyathkolla04@gmail.com)
-- [PORTFOLIO](https://kollaprakyath.dev/)
 
 ## 📈 GitHub Stats
 
