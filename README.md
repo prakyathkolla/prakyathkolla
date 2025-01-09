@@ -70,6 +70,7 @@ Feel free to connect with me on social media or contact me via email:
 - [LINKEDIN](https://www.linkedin.com/in/kolla-prakyath)
 - [GITHUB](https://github.com/prakyathkolla)
 - [EMAIL](mailto:prakyathkolla04@gmail.com)
+- [PORTFOLIO] (https://kollaprakyath.dev/)
 
 ## 📈 GitHub Stats
 
