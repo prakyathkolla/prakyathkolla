@@ -10,7 +10,7 @@ I'm a full-stack developer with over 5 years of experience in web development. M
 
 - 🔭 I’m currently working on enhancing my skills with cloud technologies like AWS and Azure.
 - 🌱 I’m constantly learning and improving my knowledge of full-stack development, microservices architecture, and cloud-native applications.
-- 📫 How to reach me: [prakyathkolla04@gmail.com](mailto:prakyathkolla04@gmail.com)
+- 📫 How to reach me: [prakyathkolla25@gmail.com](mailto:prakyathkolla25@gmail.com)
 - 📄 My resume: [Download PDF](https://github.com/prakyathkolla/prakyathkolla/blob/main/Kolla_Prakyath_FullStack_Resume.pdf)
 
 ## 🔧 Technologies & Tools
@@ -74,7 +74,7 @@ Feel free to connect with me on social media or contact me via email:
 
 - [LINKEDIN](https://www.linkedin.com/in/kolla-prakyath)
 - [GITHUB](https://github.com/prakyathkolla)
-- [EMAIL](mailto:prakyathkolla04@gmail.com)
+- [EMAIL](mailto:prakyathkolla25@gmail.com)
 
 ## 📈 GitHub Stats
 
