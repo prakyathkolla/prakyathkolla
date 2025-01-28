@@ -43,27 +43,27 @@ Here are some of the technologies and tools I commonly work with:
 
 Check out some of my most exciting projects:
 
-### 1. [Task Board](https://kanban-board-prakyath.vercel.app/)
+### 1. Task Board
 A customizable project management tool using React.js and Node.js.
 - Demo: [Live Demo](https://task-board.kollaprakyath.dev/)
 - GitHub: [Kanban Board GitHub](https://github.com/prakyathkolla/Kanban-Board)
 
-### 2. [Weather Tracker](https://weather-app-prakyath.vercel.app/)
+### 2. Weather Tracker
 A weather application that shows real-time weather data based on user input.
 - Demo: [Live Demo](https://weathertracker.kollaprakyath.dev/)
 - GitHub: [Weather App GitHub](https://github.com/prakyathkolla/Weather-App)
 
-### 3. [Birthday Mailer](https://birthday-wisher-prakyath.vercel.app/)
+### 3. Birthday Mailer
 A fun app that sends birthday wishes to your friends automatically.
 - Demo: [Live Demo](https://birthday-emailer.kollaprakyath.dev)
 - GitHub: [Birthday Wisher GitHub](https://github.com/prakyathkolla/Birthday-Wisher)
 
-### 4. [Crypto Asset Tracker](https://crypto-asset-tracker-two.vercel.app/)
+### 4. Crypto Asset Tracker
 A real-time cryptocurrency tracking app displaying up-to-date coin prices and trends.
 - Demo: [Live Demo](https://crypto-asset-tracker.kollaprakyath.dev/)
 - GitHub: [Crypto Asset Tracker GitHub](https://github.com/prakyathkolla/crypto-asset-tracker)
   
-### 5. [Portfolio](https://kollaprakyath.dev/)
+### 5. Portfolio
 Showcasing my journey as a developer – Code, Creativity, and Projects that Inspire.
 - Demo: [Live Demo](https://kollaprakyath.dev/)
 - GitHub: [Portfolio GitHub](https://github.com/prakyathkolla/Portfolio)
