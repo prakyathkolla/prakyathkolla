@@ -68,6 +68,11 @@ Showcasing my journey as a developer – Code, Creativity, and Projects that Ins
 - Demo: [Live Demo](https://kollaprakyath.dev/)
 - GitHub: [Portfolio GitHub](https://github.com/prakyathkolla/Portfolio)
 
+### 6. Cover Letter Generator
+An app which helps in customizing coverletter based for different companies.
+- Demo: [Live Demo](https://coverletter.kollaprakyath.dev/)
+- GitHub: [Portfolio GitHub](https://github.com/prakyathkolla/customized-coverletter-generator)
+
 ## 💬 Connect With Me
 
 Feel free to connect with me on social media or contact me via email:
