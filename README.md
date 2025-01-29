@@ -71,7 +71,7 @@ Showcasing my journey as a developer – Code, Creativity, and Projects that Ins
 ### 6. Cover Letter Generator
 An app which helps in customizing coverletter based for different companies.
 - Demo: [Live Demo](https://coverletter.kollaprakyath.dev/)
-- GitHub: [Portfolio GitHub](https://github.com/prakyathkolla/customized-coverletter-generator)
+- GitHub: [Cover Letter GitHub](https://github.com/prakyathkolla/customized-coverletter-generator)
 
 ## 💬 Connect With Me
 
