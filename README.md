@@ -4,6 +4,8 @@
 
 Welcome to my GitHub! I'm Kolla Prakyath, a passionate Full Stack Developer with expertise in frontend and backend technologies. I specialize in creating efficient and scalable web applications, leveraging modern frameworks and tools. This repository serves as a showcase of my projects, skills, and contributions.
 
+---
+
 ## 🚀 About Me
 
 I'm a full-stack developer with over 5 years of experience in web development. My primary expertise lies in building dynamic web applications using a variety of programming languages and frameworks such as Java, JavaScript, TypeScript, React, Angular, Spring Boot, Node.js, and many others.
@@ -12,6 +14,8 @@ I'm a full-stack developer with over 5 years of experience in web development. M
 - 🌱 I’m constantly learning and improving my knowledge of full-stack development, microservices architecture, and cloud-native applications.
 - 📫 How to reach me: [prakyathkolla25@gmail.com](mailto:prakyathkolla25@gmail.com)
 - 📄 My resume: [View PDF](https://github.com/prakyathkolla/prakyathkolla/blob/main/Kolla_Prakyath_FullStack_Resume.pdf)
+
+---
 
 ## 🔧 Technologies & Tools
 
@@ -38,6 +42,8 @@ Here are some of the technologies and tools I commonly work with:
 - REST APIs, GraphQL
 - Jenkins, CI/CD pipelines
 - Microservices architecture
+- 
+---
 
 ## 🧑‍💻 Projects
 
@@ -73,10 +79,12 @@ An app which helps in customizing coverletter for different companies.
 - Demo: [Live Demo](https://coverletter.kollaprakyath.dev/)
 - GitHub: [Cover Letter GitHub](https://github.com/prakyathkolla/customized-coverletter-generator)
 
-### 7. Prakyath Project
+### 7. Prakyath Projects
 An app which consolidates all the projects and work done by me and will be updated with new projects when production ready.
 - Demo: [Live Demo](https://projects.kollaprakyath.dev/)
 - GitHub: [Projects GitHub](https://github.com/prakyathkolla/projects)
+
+---
 
 ## 💬 Connect With Me
 
@@ -86,9 +94,13 @@ Feel free to connect with me on social media or contact me via email:
 - [GITHUB](https://github.com/prakyathkolla)
 - [EMAIL](mailto:prakyathkolla25@gmail.com)
 
+---
+
 ## 📈 GitHub Stats
 
 ![Prakyath Kolla's GitHub Stats](https://github-readme-stats.vercel.app/api?username=prakyathkolla&show_icons=true&count_private=true&hide=prs&theme=radical)
+
+---
 
 ## 🔖 License
 
